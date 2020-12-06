@@ -63,6 +63,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | CHL           | challengedac  |
 | COMP          | issue.newdex  |
 | CRON          | token.cron    |
+| CRN           | aluminumtokn  |
 | CTS           | cryptovgscts  |
 | CRT           | carrotstoken  |
 | CUSD          | stablecarbon  |
